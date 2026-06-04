@@ -27,3 +27,26 @@ Features:
 
 ## Author
 Buddha N L Tara Harshitha
+
+## How to Run
+
+### Calculator
+
+1. Open Calculator.java
+2. Compile:
+   javac Calculator.java
+3. Run:
+   java Calculator
+
+### Contact Management System
+
+1. Open ContactManagement.java
+2. Compile:
+   javac ContactManagement.java
+3. Run:
+   java ContactManagement
+
+## Requirements
+
+- Java JDK 21
+- VS Code
